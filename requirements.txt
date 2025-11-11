@@ -1,0 +1,6 @@
+streamlit
+openai
+supabase
+opencv-python
+psycopg2
+dotenv
